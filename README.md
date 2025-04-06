@@ -26,9 +26,6 @@ A curious Computer Science student with a crazy fascination for tech ✨ — fro
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vidhi2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vidhi2004&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://private-user-images.githubusercontent.com/117431722/430617311-79e75a19-b337-42ed-83d0-b5e748b16146.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NTUwMDksIm5iZiI6MTc0Mzg1NDcwOSwicGF0aCI6Ii8xMTc0MzE3MjIvNDMwNjE3MzExLTc5ZTc1YTE5LWIzMzctNDJlZC04M2QwLWI1ZTc0OGIxNjE0Ni5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMjA1MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02M2IyNWUzNzU3YmI2NzhlZGNkYzllNzFmNGQ0YzIwZjEyM2VjMWYzNjc1YmQwZWE0ZmRiZGJlYzY5Mjc0OWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.4yqPSKTYSWpCCza5OW_sDEWYqRGwQA-ANCou_Y3v7x0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d1774ee3-bae4-4ffa-9ca5-691f3de56079)
