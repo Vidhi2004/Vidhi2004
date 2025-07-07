@@ -14,7 +14,11 @@ A curious Computer Science student with a crazy fascination for tech ✨ — fro
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhi-kamat-a152a5286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhikamat01@gmail.com) [Portfolio:(https://www.zapfolio.in/vidhii-dip)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhi-kamat-a152a5286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vidhikamat01@gmail.com) 
+
+## 🚀 Portfolio
+
+Check out my portfolio here: [vidhii-dip — Zapfolio](https://www.zapfolio.in/vidhii-dip)
 
 
 # 💻 Tech Stack:
