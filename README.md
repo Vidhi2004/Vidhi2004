@@ -18,7 +18,7 @@ A curious Computer Science student with a crazy fascination for tech ✨ — fro
 
 ## 🚀 Portfolio
 
-Check out my portfolio here: [vidhii-dip — Zapfolio](https://www.zapfolio.in/vidhii-dip)
+Check out my portfolio here: [Portfolio](https://www.zapfolio.in/vidhii-dip)
 
 
 # 💻 Tech Stack:
